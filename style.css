@@ -1,0 +1,49 @@
+body{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Rubik Distressed', cursive;
+    }
+
+    
+    
+
+.container{
+
+    margin: 250px 300px;
+}
+.flex{
+    display: flex;
+}
+input{
+    border-radius: 12px;
+    padding: 10px 0px ;
+    border: 1px solid lightgray;
+    margin: 8px;
+    font-size: 16px;
+}
+.sum{
+    padding: 18px 42px;
+}
+.sum,.btn{
+    margin-left: 0px;
+}
+.sum,input{
+    margin-left: 0px;
+}
+
+.btn{
+    border-radius: 12px;
+    font-size: 16px;
+    padding: 16px 34px;
+    border: 1px solid lightgray;
+    background-color: tomato;
+    color: rgb(255, 249, 249);
+    cursor: pointer;
+   display: block;
+}
+h1,input{
+    margin-left: 0px;
+}
+h1{
+    font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Rubik Distressed', cursive;
+}
